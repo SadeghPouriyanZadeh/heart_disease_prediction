@@ -1,2 +1,4 @@
 devbook*
+*.pdf
 __pycache__
+.vs
